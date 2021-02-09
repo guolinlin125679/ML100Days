@@ -1,0 +1,5 @@
+import numpy as np
+np.__version__
+print(np.arange(21))
+print(np.arange(2,20,2))
+print(np.arange(3,20,3))
